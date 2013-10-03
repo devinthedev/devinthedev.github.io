@@ -1,4 +1,6 @@
 devinthedev.github.io
 =====================
 
-Static Webhost
+The official Devinthedev.github.io website! 
+
+Feel free to help out! 
